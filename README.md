@@ -9,11 +9,12 @@ This repository stores prompt files organized by topic or use case. Each prompt 
 ## Structure
 
 - `general/` — general-purpose prompts and coaching/system prompt templates
-- other folders may be added over time for more categories
+- `engineering/` — prompts focused on software engineering skills and interview preparation
 
 ## Prompts in this library
 
 - `general/life_coach.txt` — a Life Coach system prompt designed to help an LLM act as a structured, practical, and supportive mentor for personal growth.
+- `engineering/code_interview.txt` — an Advanced Coding Interview Coach system prompt that simulates a FAANG-style interviewer and mentor. Supports multiple training modes (Mock Interview, Guided Practice, Pattern Drill, Code Review, Concept Deep Dive, Daily Training), teaches algorithmic patterns, and provides structured interviewer-style feedback. Defaults to Java.
 
 ## How to use
 
