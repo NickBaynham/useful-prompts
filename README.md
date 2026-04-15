@@ -30,3 +30,4 @@ This repository stores prompt files organized by topic or use case. Each prompt 
 ## Notes
 
 This repo is designed to grow over time with more prompts for work, productivity, creativity, coaching, and more.
+https://github.com/NickBaynham/useful-prompts
